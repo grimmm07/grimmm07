@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Chahbalani</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate backend developer from Morocco</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grimmm07" alt="grimmm07" /></a> </p>
 
